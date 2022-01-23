@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">daintybox</string>
+
+
+    <string name="login_title_1">Bienvenido a</string>
+    <string name="login_title_2">nuestra Tienda</string>
+    <string name="login_desc">Productos organicos y veganos</string>
+    <string name="btn_registro">Registrarme</string>
+    <string name="btn_iniciar_sesion">Iniciar sesión</string>
+    <string name="ini_sesion_title">Acceso a tu cuenta</string>
+    <string name="ini_sesion_subtitle">Ingrese sus credenciales para continuar</string>
+    <string name="et_email">Email</string>
+    <string name="et_email_hint">Correo Electronico</string>
+    <string name="et_password">Contraseña</string>
+    <string name="et_password_hint">***</string>
+    <string name="forgot_password">¿Has olvidado tu contraseña?</string>
+    <string name="no_account">No tienes una cuenta?</string>
+    <string name="btn_registrate">Registrate</string>
+    <string name="frag_tienda">Tienda</string>
+    <string name="frag_explorar">Explorar</string>
+    <string name="frag_carrito">Carrito</string>
+    <string name="frag_perfil">Tu perfil</string>
+    <string name="frag_favoritos">Favoritos</string>
+</resources>
